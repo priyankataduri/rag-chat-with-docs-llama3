@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local data and model files
+test-dir/
+weights/
+.ollama/
+
+# Mac
+.DS_Store
